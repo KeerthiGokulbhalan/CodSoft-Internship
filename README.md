@@ -6,6 +6,7 @@ CodSoft UI/UX Internship – Project Submission
 - Designed a clean and user-friendly mobile signup screen
 - Tools used: Figma
 - [View Design](https://www.figma.com/proto/o6DkIaMYuFsIcvcAkVQEOJ/Mobile-SIgn-up-flow?page-id=0%3A1&node-id=15-120&p=f&viewport=-204%2C61%2C0.68&t=rSN6Xz8yfadoEZxc-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=15%3A120)
+- [Demo video 1](https://www.linkedin.com/posts/keerthi-g-9a3b99302_codsoft-uiux-figma-activity-7352354845036531713-8tLZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1q_0sB9XCO5CfSzu9dLQPkYLz0HfzGvtM)
 
 ---
 
@@ -13,6 +14,7 @@ CodSoft UI/UX Internship – Project Submission
 - A professional email template with proper hierarchy and responsiveness
 - Tools used: Figma
 - [View Design](https://www.figma.com/proto/ajFM5N8qZEWYraXG0W39bI/Email-Template?page-id=0%3A1&node-id=13-4&p=f&viewport=209%2C147%2C0.29&t=BomKlYq7VsPX5Enq-1&scaling=min-zoom&content-scaling=fixed)
+- [Demo video 2](https://www.linkedin.com/posts/keerthi-g-9a3b99302_codsoft-emailui-uiux-activity-7352357239669596161-GiXT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1q_0sB9XCO5CfSzu9dLQPkYLz0HfzGvtM)
 
 ---
 
@@ -20,14 +22,7 @@ CodSoft UI/UX Internship – Project Submission
 - A modern, categorized restaurant menu interface
 - Tools used: Figma
 - [View Design](https://www.figma.com/proto/R8lf7gTnrr0Db2UUcOrKqx/Restrauant-Menu?page-id=0%3A1&node-id=31-202&p=f&viewport=-694%2C65%2C0.34&t=lFHlKypQYnA5g8Nq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=11%3A418)
-
----
-
-### 📹 Demo Video
-- Task 1 LinkedIn Post: [https://www.linkedin.com/posts/keerthi-g-9a3b99302_codsoft-uiux-figma-activity-7352354845036531713-8tLZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1q_0sB9XCO5CfSzu9dLQPkYLz0HfzGvtM]
-- Task 2 linkedin post:[https://www.linkedin.com/posts/keerthi-g-9a3b99302_codsoft-emailui-uiux-activity-7352357239669596161-GiXT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1q_0sB9XCO5CfSzu9dLQPkYLz0HfzGvtM]
-- Task 3Linkedin post:[https://www.linkedin.com/posts/keerthi-g-9a3b99302_codsoft-uiux-figma-activity-7352358409750335488-ulwi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1q_0sB9XCO5CfSzu9dLQPkYLz0HfzGvtM
-
+- [Demo video 3](https://www.linkedin.com/posts/keerthi-g-9a3b99302_codsoft-uiux-figma-activity-7352358409750335488-ulwi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1q_0sB9XCO5CfSzu9dLQPkYLz0HfzGvtM)
 ---
 
 ### 👩‍🎓 Designer Info
