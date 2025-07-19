@@ -24,7 +24,9 @@ CodSoft UI/UX Internship – Project Submission
 ---
 
 ### 📹 Demo Video
-- LinkedIn Post: [https://www.linkedin.com/posts/keerthi-g-9a3b99302_codsoft-uiux-figma-activity-7352354845036531713-8tLZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1q_0sB9XCO5CfSzu9dLQPkYLz0HfzGvtM]
+- Task 1 LinkedIn Post: [https://www.linkedin.com/posts/keerthi-g-9a3b99302_codsoft-uiux-figma-activity-7352354845036531713-8tLZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1q_0sB9XCO5CfSzu9dLQPkYLz0HfzGvtM]
+- Task 2 linkedin post:[https://www.linkedin.com/posts/keerthi-g-9a3b99302_codsoft-emailui-uiux-activity-7352357239669596161-GiXT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1q_0sB9XCO5CfSzu9dLQPkYLz0HfzGvtM]
+- Task 3Linkedin post:[https://www.linkedin.com/posts/keerthi-g-9a3b99302_codsoft-uiux-figma-activity-7352358409750335488-ulwi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1q_0sB9XCO5CfSzu9dLQPkYLz0HfzGvtM
 
 ---
 
